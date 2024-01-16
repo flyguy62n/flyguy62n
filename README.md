@@ -1,12 +1,14 @@
 ### Thanks for stopping by 👋
 
-Thanks for ingdulging me in quick note about myself...
+... and for ingdulging me in quick note about myself ...
 
 Pilot, cyclist, nerd.  That about sums it up.  The pilot part -- 62N is the ending part of my airplane's tail number.  She's a 1968 VTail Bonanza.  Super fast, and super cool.  I can be found bouncing around the American Southeast many weekends.
 
 Cyclist -- Lots of road cycling.  With my legs.  Any weekend when I get to both fly and go for a 60-mile (100km) ride is a /really/ /good/ weekend.
 
-Nerd -- I've been in a IT for more than 30 years and have been focused on infosec for more than 25.  And there's my [Home Assistant](https://www.home-assistant.io/)-automated home.  And then there's [PIIDigger](https://github.com/flyguy62n/PIIDigger) -- a project I've had in mind for a long time and finally have enough Python skills to even think about it.  
+Nerd -- I've been in a IT for more than 30 years and have been focused on infosec for more than 25.  And there's my [Home Assistant](https://www.home-assistant.io/)-automated home.  And then there's [PIIDigger](https://github.com/flyguy62n/PIIDigger) -- a project I've had in mind for a long time and finally have enough Python skills to even think about it.
+
+I studied Computer Science back in the Dark Ages, when all languages were low-level languages and you could create a buffer overflow while taking a walk.  I picked up a book on Python a couple of years ago and have been really enjoying that lately.
 
 <!--
 **flyguy62n/flyguy62n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
