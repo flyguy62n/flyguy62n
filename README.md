@@ -6,7 +6,7 @@ Pilot, cyclist, nerd.  That about sums it up.  The pilot part -- 62N is the endi
 
 Cyclist -- Lots of road cycling.  With my legs.  Any weekend when I get to both fly and go for a 60-mile (100km) ride is a /really/ /good/ weekend.
 
-Nerd -- I've been in a IT for more than 30 years and have been focused on infosec for more than 25.  And there's my [https://www.home-assistant.io/](Home Assistant)-automated home.  And then there's [PIIDigger/](PIIDigger) -- a project I've had in mind for a long time and finally have enough Python skills to even think about it.  
+Nerd -- I've been in a IT for more than 30 years and have been focused on infosec for more than 25.  And there's my [www.home-assistant.io/](Home Assistant)-automated home.  And then there's [/flyguy62/PIIDigger/](PIIDigger) -- a project I've had in mind for a long time and finally have enough Python skills to even think about it.  
 
 <!--
 **flyguy62n/flyguy62n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
